@@ -2,7 +2,7 @@
 
 # Human Pose Estimation in Crowded Scenes
 
-[Project Banner]
+
 
 This repository presents our efforts to improve **human pose estimation** in crowded images. We noticed that standard models often perform poorly in such scenarios and explored a series of methods to address these limitations, combining classical computer vision techniques with patch-based inference strategies.
 
